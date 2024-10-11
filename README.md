@@ -23,6 +23,3 @@ Steps:
 11) lvextend -L +300G /dev/pve/data
 12) Check the sizes with the lvs, vgs, pvs
 13) If all is good for now, you can put the drive back to the server and woila!
-
-
-Bonus question :-) there is a picture in this repo and the picture is not fake, but there is something that shall not be correct... If someone can explain that to me, please!
