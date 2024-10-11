@@ -9,9 +9,9 @@ Steps:
 4) There is no root, so use sudo for command in the terminal, which you will use now
 5) Couple of the useful commands:
    
-   lvs
-   vgs
-   pvs
+   lvs,
+   vgs,
+   pvs,
    df -h
    
 7) First expand the metadata as the LVM is Thin in Proxmox and thin can't be shrinked
